@@ -1,4 +1,4 @@
-# discord
+# Projet E-learning Isitech
 
 ## Project setup
 ```
